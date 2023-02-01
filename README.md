@@ -2,7 +2,7 @@
 
 `Developer in continuously development`
 
-I´m a Chilean-Italian developer, I discovered my passion for tecnology and programming throughout the pandemic, and since then I´ve been totally in love with the learning process, therefore I´m totally willing to take my knowledge and career to the next level.
+I'm a Chilean-Italian developer, I discovered my passion for tecnology and programming throughout the pandemic, and since then I've been totally in love with the learning process, therefore I'm totally willing to take my knowledge and career to the next level.
 
 I love creating and contributing to coding projects which can potentially be a way to solve real-life problems with code.
 
@@ -25,6 +25,7 @@ Looking forward to be part of projects which can help me boost my abilities and 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img align="left" alt="MUI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
