@@ -2,7 +2,7 @@
 
 `Developer in continuously development`
 
-I'm a Chilean-Italian developer, I discovered my passion for tecnology and programming throughout the pandemic, and since then I've been totally in love with the learning process, therefore I'm totally willing to take my knowledge and career to the next level.
+I'm a Chilean developer, I discovered my passion for tecnology and programming throughout the pandemic, and since then I've been totally in love with the learning process, therefore I'm totally willing to take my knowledge and career to the next level.
 
 I love creating and contributing to coding projects which can potentially be a way to solve real-life problems with code.
 
